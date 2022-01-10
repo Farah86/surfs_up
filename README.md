@@ -16,3 +16,6 @@ b.as we noticed again the degrees getting lower by December which can mean less 
 
 ![this is picture](https://github.com/Farah86/surfs_up/blob/main/resources/june2.png)
 
+# 3.Summary:
+after doing all the search for Mr.Avy we can tell that those both months and in between can start with high tempreture and high humidity which is so perfect for surf and eat icecream going down to the cold weather which can be a little bit more risky to surf in this time you see more of the pro people who can surf in this weather we can provide the company with more clear view of those information because am sure non of them have a detailed idea about codeing we can use plot to show the tourist rating between those two months and maybe do two more to show us how the tempreture can go high and low in each of June and December using both of those codes:
+# (df.describe(),df.plot())
